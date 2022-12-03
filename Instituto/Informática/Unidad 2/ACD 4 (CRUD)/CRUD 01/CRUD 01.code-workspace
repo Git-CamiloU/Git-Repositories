@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "Carpetas Git\\Informatica 1 - Git\\Unidad 2\\ACD 4 (CRUD)\\CRUD 01"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "Chule Bikes",
+				"group": "1",
+				"database": "C:\\Users\\ASUS\\Desktop\\-- phpMyAdmin SQL Dump.sql"
+			}
+		],
+		"sqltools.useNodeRuntime": true
+	}
+}
